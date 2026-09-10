@@ -1,0 +1,16 @@
+{
+  "name": "verdinho-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Site institucional estático do Verdinho Finanças",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "build:release": "node scripts/build.mjs --release"
+  }
+}

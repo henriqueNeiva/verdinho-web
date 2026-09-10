@@ -1,0 +1,44 @@
+[
+  {
+    "route": "",
+    "file": "home.html",
+    "title": "Verdinho Finanças — Seu dinheiro, em sintonia.",
+    "description": "Conheça o Verdinho: organização financeira pessoal e compartilhada, com receitas, despesas e uma visão mais clara do mês.",
+    "legal": false
+  },
+  {
+    "route": "privacidade",
+    "file": "privacy.html",
+    "title": "Política de privacidade · Verdinho Finanças",
+    "description": "Saiba quais dados o Verdinho utiliza, para quais finalidades, como são compartilhados e como exercer seus direitos.",
+    "legal": true
+  },
+  {
+    "route": "termos",
+    "file": "terms.html",
+    "title": "Termos de uso · Verdinho Finanças",
+    "description": "Condições de uso do aplicativo Verdinho Finanças e do seu site institucional.",
+    "legal": true
+  },
+  {
+    "route": "suporte",
+    "file": "support.html",
+    "title": "Suporte · Verdinho Finanças",
+    "description": "Entre em contato com o responsável pelo Verdinho e encontre respostas sobre conta, login Google e dados.",
+    "legal": false
+  },
+  {
+    "route": "excluir-conta",
+    "file": "delete.html",
+    "title": "Exclusão de conta e dados · Verdinho Finanças",
+    "description": "Como solicitar a exclusão da sua conta e dos seus dados no Verdinho, inclusive sem acesso ao aplicativo.",
+    "legal": false
+  },
+  {
+    "route": "licencas",
+    "file": "licenses.html",
+    "title": "Licenças e créditos · Verdinho Finanças",
+    "description": "Licença do código do site, uso da identidade visual e créditos dos recursos utilizados.",
+    "legal": false
+  }
+]
